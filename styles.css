@@ -41,7 +41,6 @@ body {
   vertical-align: bottom;
 }
 
-/* Styles for the labels (numbers on bars) */
 .bar-label {
   position: absolute;
   bottom: -25px;
@@ -52,20 +51,19 @@ body {
   text-align: center;
 }
 .bar.swapped {
-  background-color: #e74c3c; /* Red */
+  background-color: #e74c3c;
 }
 
-/* Bar representing the pivot element */
+
 .bar.pivot {
-  background-color: #8e44ad; /* Purple */
+  background-color: #8e44ad;
 }
 
-/* Bar that is sorted */
+
 .bar.sorted {
-  background-color: #2ecc71; /* Green */
+  background-color: #2ecc71; 
 }
 
-/* Bar container and label styling remains the same */
 .bar-container {
   display: inline-block;
   position: relative;
