@@ -1,6 +1,6 @@
 # sorting-visualizer
 
-This is a web-based Sorting Algorithm Visualizer built using HTML, CSS, and JavaScript. It allows you to visualize different sorting algorithms in real-time, including Bubble Sort, Selection Sort, Insertion Sort, Quick Sort, Merge Sort, and Heap Sort. You can also control the speed of visualization and provide a custom array for sorting.
+This is a web-based Sorting Algorithm Visualizer built using HTML, CSS, and JavaScript. It allows you to visualize different sorting algorithms in real-time, including Bubble Sort, Selection Sort, Insertion Sort, Quick Sort and Merge Sort. You can also control the speed of visualization and provide a custom array for sorting.
 
 link: https://vasampavan.github.io/sorting-visualizer/
 
