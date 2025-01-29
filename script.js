@@ -10,7 +10,7 @@ let array = [];
 let delay = 500;
 
 function updateDelay() {
-  delay = (21 - speedInput.value) * 50;
+  //delay = (21 - speedInput.value) * 50;
   speedValue.textContent = `${delay} ms`;
 }
 
