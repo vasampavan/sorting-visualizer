@@ -22,6 +22,10 @@ function generateRandomArray(size = 20) {
   renderArray();
 }
 
+generateRandomButton.addEventListener('click', () => {
+  generateRandomArray();
+});
+
 sortArrayButton.addEventListener('click', async () => {
   const userInput = userArrayInput.value;
   
@@ -90,6 +94,7 @@ async function swap(i, j) {
   });
 }
 
+// Sorting algorithms remain unchanged
 async function bubbleSort() {
   const n = array.length;
   for (let i = 0; i < n; i++) {
