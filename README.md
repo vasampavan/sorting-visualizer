@@ -22,10 +22,7 @@ Preview:
   - Heap Sort
 - **Visualization Controls**:
   - Adjust the speed of the sorting visualization using a slider.
-  - Bars representing the array elements change colors during selection, swaps, and sorting:
-    - Selected bars are highlighted in red.
-    - Pivot element in Quick Sort is highlighted in purple.
-    - Sorted bars turn green.
+  - Sorted bars turn green.
 
 ## How to Use
 
