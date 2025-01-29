@@ -19,7 +19,6 @@ Preview:
   - Insertion Sort
   - Quick Sort (with pivot highlighted)
   - Merge Sort
-  - Heap Sort
 - **Visualization Controls**:
   - Adjust the speed of the sorting visualization using a slider.
   - Sorted bars turn green.
