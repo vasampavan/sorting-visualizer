@@ -93,8 +93,6 @@ async function swap(i, j) {
     }, delay);
   });
 }
-
-// Sorting algorithms remain unchanged
 async function bubbleSort() {
   const n = array.length;
   for (let i = 0; i < n; i++) {
